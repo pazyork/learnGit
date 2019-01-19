@@ -1,2 +1,6 @@
 this is the first file in LearnGit
+<<<<<<< HEAD
 new line form user-1
+=======
+new line form user-2
+>>>>>>> user-2
