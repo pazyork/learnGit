@@ -1,4 +1,7 @@
 this is the first file in LearnGit
 new line form user-1
 line-2  from user-1
+<<<<<<< HEAD
 line-4 form user-1
+=======
+>>>>>>> b1094b9... commit-2 from user-1
